@@ -1,8 +1,7 @@
 ## Hello, I'm Can Duyar! 👋
 
-- 🔭 I’m currently working on Data Science,Machine Learning and AI.
+- 💻 I’m currently working as a Data Scientist at TEA Networks 📶 
 - 🌱 I’m currently learning Julia.
-- ⚛ I’m currently studying at GEBZE TECHNICAL UNIVERSITY.
 - 💬 Ask me about Computer Science stuff.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/can-duyar-6770b8150/
 
