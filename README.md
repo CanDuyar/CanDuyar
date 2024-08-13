@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/1608e67e-3125-4ff0-ae53-334d20fc25fb)## Hello, I'm Can Duyar! 👋
+## Hello, I'm Can Duyar! 👋
 
-- 💻 I’m currently working as a Data Scientist 🧑🏻‍💻. 
+- 💻 I’m currently working as a Data Scientist 🧑🏻‍💻 
 - 🌱 I’m currently learning Julia.
 - 💬 Ask me about Computer Science stuff.
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/can-duyar-6770b8150/
